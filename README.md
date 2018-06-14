@@ -1,0 +1,2 @@
+
+Tutorial sobre el uso de las librerías Retrofit y Picasso para cargar imágenes y texto en un recyclerview dentro de una aplicación Android accediendo a un web service remoto hecho en formato JSON. Es decir usar el método GET para acceder una REST API remota.
